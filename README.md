@@ -1,4 +1,6 @@
-### Hi there 👋
+<picture>
+  <img src="/metrics.plugin.stars.svg" alt="Metrics">
+</picture>
 
 <!--
 **kngroo/kngroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
